@@ -1,27 +1,28 @@
 # 👋 Olá! Eu sou o Luiz Philipe Lima de Andrade
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Bem-vindo+ao+meu+perfil!;Estudante+de+Redes+de+Computadores;Estagiário+NOC+N2+na+Tely;Apaixonado+por+Infraestrutura+e+DevOps" />
+  <img src="https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Bem-vindo+ao+meu+perfil!;Estudante+de+Redes+de+Computadores;Estagiário+NOC+N2+na+Tely;Explorando+o+mundo+da+tecnologia!" />
 </div>
 
 ## 🎓 Sobre Mim
 
 - 📚 **Estudante de Redes de Computadores** no **IFPB** (5º período)
 - 💼 **Estagiário NOC N2** na **Tely** - Monitoramento de rede e resolução de incidentes
-- 🌐 Especialista em **Administração de Sistemas Linux** e **Infraestrutura como Código**
-- 🔧 Focado em **automação**, **containerização** e **segurança da informação**
+- 🌐 Aprendendo **Administração de Sistemas Linux** e **Infraestrutura**
+- 🔧 Explorando **automação**, **containerização** e **segurança**
+- 🎯 Atualmente focado em **redes de computadores** e **infraestrutura de TI**
 - 📍 João Pessoa, Paraíba, Brasil
 
 ---
 
-## 🚀 Tecnologias e Ferramentas
+## 🚀 Tecnologias que Tenho Conhecimento
 
+### 🌐 Redes (Foco Principal)
+![Cisco](https://img.shields.io/badge/Cisco-049fd9?style=for-the-badge&logo=cisco&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![BGP](https://img.shields.io/badge/BGP-FF6B00?style=for-the-badge&logo=router&logoColor=white)
+![VLANs](https://img.shields.io/badge/VLANs-4CAF50?style=for-the-badge&logo=network-wired&logoColor=white)
 ### 🖥️ Sistemas e Infraestrutura
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white)
-
-### 🐳 DevOps e Containerização
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
 ![Vagrant](https://img.shields.io/badge/Vagrant-1563FF?style=for-the-badge&logo=vagrant&logoColor=white)
@@ -51,17 +52,17 @@
 
 ---
 
-## 🛠️ Projetos em Destaque
+## 🛠️ Projetos de Aprendizado
 
-### 🏗️ Infraestrutura como Código
-- **Vagrant + Ansible + Docker**: Automação completa de ambientes virtuais
-- **SyncWave**: Servidor SFTP integrado com gerenciador de arquivos web
-- **Provisionamento automatizado** de servidores Linux
+### 🌐 Redes e Infraestrutura
+- **Topologias de rede com Mininet e PNETLab**: Simulação de redes complexas
+- **Configuração BGP**: Implementação de roteamento e engenharia de tráfego
+- **Análise de performance**: Medição de atraso e perda de pacotes com ferramentas de rede
 
-### 🌐 Redes e Monitoramento
-- **Análise de desempenho de rede**: Medição de atraso e perda de pacotes
-- **Topologias complexas**: Implementação com Mininet e PNETLab
-- **Roteamento BGP**: Configuração de filtros e engenharia de tráfego
+### 🏗️ Automação e Sistemas
+- **Vagrant + Ansible + Docker**: Automação de ambientes de desenvolvimento
+- **Servidor SFTP (SyncWave)**: Implementação com interface web para gerenciamento
+- **Provisionamento de servidores**: Scripts de automação para configuração de sistemas Linux
 
 ---
 
