@@ -19,15 +19,18 @@
 
 ### 🌐 Redes
 ![Cisco](https://img.shields.io/badge/Cisco-049fd9?style=for-the-badge&logo=cisco&logoColor=white)
+![Huawei](https://img.shields.io/badge/Huawei-FF0000?style=for-the-badge&logo=huawei&logoColor=white)
+![MikroTik](https://img.shields.io/badge/MikroTik-293239?style=for-the-badge&logo=mikrotik&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
 ![BGP](https://img.shields.io/badge/BGP-FF6B00?style=for-the-badge&logo=router&logoColor=white)
 ![VLANs](https://img.shields.io/badge/VLANs-4CAF50?style=for-the-badge&logo=network-wired&logoColor=white)
+![PNETLab](https://img.shields.io/badge/PNETLab-2196F3?style=for-the-badge&logo=cisco&logoColor=white)
 
 ### 🖥️ Sistemas e Infraestrutura
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
 ![Vagrant](https://img.shields.io/badge/Vagrant-1563FF?style=for-the-badge&logo=vagrant&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Shell](https://img.shields.io/badge/Shell-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
 ### 💻 Desenvolvimento
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
