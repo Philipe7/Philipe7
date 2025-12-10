@@ -7,7 +7,7 @@
 ## 🎓 Sobre Mim
 
 - 📚 **Estudante de Redes de Computadores** no **IFPB** (5º período)
-- 💼 **Estagiário NOC N2** na **Tely** - Monitoramento de rede e resolução de incidentes
+- 💼 **Analista de Redes | NOC N2** na **Tely** - Monitoramento de rede e resolução de incidentes
 - 🌐 Aprendendo **Administração de Sistemas Linux** e **Infraestrutura**
 - 🔧 Explorando **automação**, **containerização** e **segurança**
 - 🎯 Atualmente focado em **redes de computadores** e **infraestrutura de TI**
