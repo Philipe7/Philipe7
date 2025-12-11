@@ -1,7 +1,7 @@
 # 👋 Olá! Eu sou o Luiz Philipe Lima de Andrade
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Bem-vindo+ao+meu+perfil!;Estudante+de+Redes+de+Computadores;Estagiário+NOC+N2+na+Tely;Explorando+o+mundo+da+tecnologia!" />
+  <img src="https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Bem-vindo+ao+meu+perfil!;Estudante+de+Redes+de+Computadores;Analista+de+Redes+|+NOC+N2+na+Tely;Explorando+o+mundo+da+tecnologia!" />
 </div>
 
 ## 🎓 Sobre Mim
