@@ -6,7 +6,7 @@
 
 ## 🎓 Sobre Mim
 
-- 📚 **Estudante de Redes de Computadores** no **IFPB** (5º período)
+- 📚 **Estudante de Redes de Computadores** no **IFPB** (6º período)
 - 💼 **Analista de Redes | NOC N2** na **Tely** - Monitoramento de rede e resolução de incidentes
 - 🌐 Aprendendo **Administração de Sistemas Linux** e **Infraestrutura**
 - 🔧 Explorando **automação**, **containerização** e **segurança**
