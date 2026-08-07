@@ -7,7 +7,7 @@
 ## 🎓 Sobre Mim
 
 - 📚 **Estudante de Redes de Computadores** no **IFPB** (6º período)
-- 💼 **Analista de Redes | NOC N2** na **Tely** - Monitoramento de rede e resolução de incidentes
+- 💼 **Analista de MSS Jr.** na **SEK** - Monitoramento de rede e resolução de incidentes
 - 🌐 Aprendendo **Administração de Sistemas Linux** e **Infraestrutura**
 - 🔧 Explorando **automação**, **containerização** e **segurança**
 - 🎯 Atualmente focado em **redes de computadores** e **infraestrutura de TI**
@@ -73,7 +73,7 @@
 ## 💼 Experiência Profissional
 
 ### 🔍 NOC N2 - Tely
-**Estagiário** | *Atual*
+**Analista Técnico de Operações I** | *Atual*
 - 📡 Monitoramento proativo de infraestrutura de rede
 - 🚨 Resolução de incidentes de segundo nível
 - 📊 Análise de métricas de performance e disponibilidade
