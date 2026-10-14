@@ -4,7 +4,7 @@
 
 ### 🔐 Cybersecurity | 🌐 Redes | 🖥️ Infraestrutura
 
-**Analista de MSS Jr. na SEK** • **Estudante de Redes de Computadores no IFPB**
+**Cybersecurity Analyst Jr. na SEK** • **Estudante de Redes de Computadores no IFPB**
 
 📍 João Pessoa - PB, Brasil
 
@@ -23,7 +23,7 @@ Atualmente, venho aprofundando meus conhecimentos em **segurança da informaçã
 ```bash
 luiz@cybersecurity:~$ whoami
 
-> 🔐 Analista de MSS Jr. @ SEK
+> 🔐 Cybersecurity Analyst Jr. @ SEK
 > 🎓 Redes de Computadores @ IFPB
 > 🌐 Background em NOC, Redes e Telecom
 > 🛡️ Foco atual em Cybersecurity
@@ -168,7 +168,7 @@ Também possuo experiência com desenvolvimento de projetos utilizando:
 
 ## 🛡️ SEK
 
-### Analista de MSS Jr. | Atual
+### Cybersecurity Analyst Jr. | Atual
 
 Atuação em **Managed Security Services (MSS)**, com foco em segurança, monitoramento e sustentação de ambientes.
 
